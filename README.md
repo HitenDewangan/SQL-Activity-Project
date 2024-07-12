@@ -4,6 +4,8 @@
 - Insert sample data into each table.
 - Test the tables by running queries to retrieve data and verify the relationships.
 
+![ER Diagram of the tables in saledb database](https://github.com/HitenDewangan/SQL-Activity-Project/blob/main/ER%20Diagram.png)
+
 ### Sample Database for Sales Orders (saledb)
 This project provides a sample database schema for a sales order system, named saledb. It includes tables representing:
 
@@ -36,3 +38,5 @@ The order of importing the files is important due to foreign key relationships. 
 8. payments.sql (if applicable)
 - Insert sample data using the provided SQL statements or populate the tables with your own data.
 - Use SQL queries to interact with the database and retrieve or manipulate data as needed.
+
+
