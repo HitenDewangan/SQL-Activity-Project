@@ -26,13 +26,13 @@ The project includes sample data inserted into most tables to demonstrate usage.
 Import the SQL code files into your preferred SQL database management system.
 The order of importing the files is important due to foreign key relationships. Here's a suggested order:
 #### Create tables:
-offices.sql
-productlines.sql (if applicable)
-products.sql
-customers.sql
-employees.sql
-orders.sql
-orderdetails.sql
-payments.sql (if applicable)
+1. offices.sql
+2. productlines.sql (if applicable)
+3. products.sql
+4. customers.sql
+5. employees.sql
+6. orders.sql
+7. orderdetails.sql
+8. payments.sql (if applicable)
 - Insert sample data using the provided SQL statements or populate the tables with your own data.
 - Use SQL queries to interact with the database and retrieve or manipulate data as needed.
